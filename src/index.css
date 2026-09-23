@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  html[dir="rtl"] body {
+    font-family: 'Heebo', 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+

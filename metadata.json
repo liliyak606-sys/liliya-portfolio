@@ -1,0 +1,8 @@
+{
+  "name": "Remix UX/UI Designer Portfolio",
+  "description": "Minimalist black and white UX/UI designer portfolio",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
